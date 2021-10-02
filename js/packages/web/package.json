@@ -64,7 +64,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/primoz86/primoz86.github.io"
+    "url": "https://github.com/metaplex-foundation/metaplex"
   },
   "homepage": ".",
   "devDependencies": {
